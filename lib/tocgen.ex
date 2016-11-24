@@ -1,6 +1,5 @@
 defmodule Tocgen do
-
-	alias Tocgen.RegexCase
+  alias Tocgen.RegexCase
 
   @moduledoc """
 
